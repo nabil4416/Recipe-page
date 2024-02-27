@@ -14,7 +14,7 @@ body {
 
 .container {
     width: 720px;
-    margin: 10% auto;
+    margin: 10% auto 0;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     padding: 3%;
